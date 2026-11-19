@@ -64,6 +64,7 @@
 - [Airtable](https://www.airtable.com) - Spreadsheet-database for business data.
 - [Tally](https://tally.so) - Free forms and surveys.
 - [Grammarly](https://www.grammarly.com) - Writing checks for emails and content.
+- [Bookipi AI](https://bookipi.com/ai/) - Create and send invoices using plain-language instructions.
 
 ## Starter Prompts
 Copy, fill the `[brackets]`, paste into any AI assistant.
