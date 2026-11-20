@@ -22,6 +22,7 @@
 - [Gemini](https://gemini.google.com) - Google's AI assistant, works with Google apps.
 - [Perplexity](https://www.perplexity.ai) - AI search with sources.
 - [Microsoft Copilot](https://copilot.microsoft.com) - AI assistant built into Microsoft tools.
+- [Cloud Alter Ego](https://cloudalterego.cafeboon.com) - One memory for all your AI chats in Claude, ChatGPT and Gemini, logged automatically and kept in your own cloud storage.
 
 ## Build Apps Without Code
 - [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) - Describe what you want; Claude builds and edits the project.
